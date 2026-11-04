@@ -338,7 +338,7 @@ In this step, you'll consume your `productassistant` agent from outside the Foun
 2. Select **Agents** and navigate to your agent (`productassistant`)
 3. Select **Details** tab
 4. Copy the **Endpoint** URL
-   - Format: `https://foundry-agents-<yourname>.services.ai.azure.com/api/projects/agents-project/agents/productassistant/endpoint/protocols/openai/v1/responses`
+   - Format: `https://foundry-agents-<yourname>.services.ai.azure.com/api/projects/agents-project/agents/productassistant/endpoint/protocols/openai/responses`
 5. Save this endpoint for use in the following steps
 
 > **Note:** Calling the agent endpoint requires Azure RBAC authentication. Make sure your account has the **Azure AI User** role on the Foundry resource or project.
