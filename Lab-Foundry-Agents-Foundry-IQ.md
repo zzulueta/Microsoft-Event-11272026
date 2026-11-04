@@ -58,7 +58,7 @@ By the end of this lab, you will have:
 
 ### 1.4 Create a Container and Upload Sample Documents
 1. In your storage account, navigate to **Data storage** > **Containers** in the left menu
-2. Click **+ Container**
+2. Click **+ Add container**
 3. Configure the container:
    - **Name:** `manuals`
    - **Public access level:** Private (no anonymous access)
